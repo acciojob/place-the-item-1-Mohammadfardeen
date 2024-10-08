@@ -1,2 +1,29 @@
+* {
+	margin:0px;
+	padding:0px;
+}
+.holder {
 
-/* Your CSS Code here. */
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:space-between;
+}
+.item {
+	background-color:yellowgreen;
+	height:100px;
+	width:100px;
+	border:2px solid red;
+	font-size:40px;
+	text-align:
+	
+}
+#a {
+	background-color:yellow;
+}
+#b {
+
+	background-color:pink;
+}
+#c {
+	background-color:red;
+}
